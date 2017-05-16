@@ -1,0 +1,1077 @@
+{
+  "settings": {
+    "currentPage": "apropos.html",
+    "name": "Lexicod",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 47,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/unique-4-128x158.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Acueil",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "LexiCOD",
+                "showText": true,
+                "text": "Devenir meilleur pour mieux servir",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"apropos.html\" data-toolbar=\"-mbrBtnMove\">Qui sommes Nous</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"Publications.html\" data-toolbar=\"-mbrBtnMove\">Nos publications</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": true,
+                "text": "le « Lexiques de la République Démocratique du Congo Association sans but lucratif », en abrégé : « LexiCOD asbl » est une association qui a pour but la formation des jeunes frais émoulus des universités et instituts supérieurs afin de les rendre apte à servir, professionnellement, dans un domaine d’activité précis.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide3.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide4.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#cccccc",
+            "showBullets": true
+          },
+          "_anchor": "slider3-17",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-376x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACCEUIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Publications.html\" aria-expanded=\"false\">PUBLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">FORMATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"apropos.html\" aria-expanded=\"false\">A PROPOS DE NOUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"apropos.html\">CONTACT</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Lexicod."
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "LEXICOD",
+          "text": "LexiCOD est une association de réflexion, pour l'excellence sur les questions d’intérêt généraux à savoir; la douane, la fiscalité et d'autres domaines.<br><br>Avec LexiCOD, nous devenons experts dans nos différents secteurs d'activités, grâce à la formation et à l'information qu'elle met à notre disposition par la production et la publication d'outils d'aide au renforcement des connaissances et des capacités; ce qui nous rend apte à exercer notre profession.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"apropos.html\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Articles",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Dans nos articles, vous trouverez plus d'informations à propos des sujets traités dans différents domaines de recherche exploités par LexiCOD, grâce à nos publications périodiques et régulières.<br>Dans nos articles, vous trouverez plus d'informations à propos des sujets traités dans différents domaines de recherche&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"Publications.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "newspaper",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Publications",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Vous trouverez dans cette rubrique, la liste des lexiques et ouvrages publiés par LexiCOD.<br>Vous trouverez dans cette rubrique, la liste des lexiques et ouvrages publiés par LexiCOD.<br>Vous trouverez dans cette rubrique, la liste des lexiques et ouvrages publiés par<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"Publications.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "",
+              "newWindow": false
+            }
+          },
+          "title3": "Lexiques",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Dans nos lexiques, vous trouverez l'ensemble des termes ou expressions utilisés dans un domaine précis, ne se trouvant pas généralement pas dans les dictionnaires généraux, ou qui s'y trouvent mais aavec un sens différent de celui qu'ils ont dans ces domaines particuliers ",
+          "button3": "<a data-app-btn=\"true\" href=\"Publications.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "",
+              "newWindow": false
+            }
+          },
+          "title4": "Formations",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "LexiCOD offre, aux jeunes frais émoulus des universités et instituts supérieurs, la possibilité de renforcer leurs compétences et acquérir plus de dynamisme dans le monde professionnel, grâce à son prrogramme de formation professionnelle; ce qui leurs permettra,..",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJxUMixfQzahoRH37hrrIdKRA",
+              "address": "1013 Avenue Mutombo Katshi Commune de la Gombe, Cavali Center",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>1013 avenue Mutombo Katshi, Commune de la Gombe, Immeuble Kavali Center, 2eme Niveau, &nbsp;Kinshasa, République démocratique du Congo<br><br>\n<strong>Contacts</strong><br>\nEmail: contact@lexicod.com<br>\nPhone: (00243) 81 47 87 401<br><br>",
+          "text2": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape3-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222"
+          },
+          "text": "SUIVEZ-NOUS",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://web.facebook.com/lexicod.asbl?ref=ts&amp;fref=ts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        }
+      ]
+    },
+    "apropos.html": {
+      "settings": {
+        "title": "A Propos de Nous",
+        "meta_descr": "A propos de Nous ",
+        "order": 3
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Lexicod."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Qui Sommes-Nous?",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Fondé par Monsieur André Monga Numbi le 25 janvier 2016, le « Lexiques de la République Démocratique du Congo Association sans but lucratif », en abrégé : « LexiCOD asbl » est une association qui a pour but la formation des jeunes frais émoulus des universités et instituts supérieurs afin de les rendre apte à servir, professionnellement, dans un domaine d’activité précis. </p><p>De ce fait, elle a pour missions :</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">La promotion de la recherche ;</span><br></li><li>La rédaction des lexiques et des autres ouvrages ;</li><li>La publication et l’édition des lexiques et autres ouvrages ;</li><li>La fourniture des prestations de service sur base des connaissances acquises ;</li><li>La coopération et/ou le partenariat avec les services concernés par les domaines de recherche exploités.</li></ul><div>Ayant le souci de répondre aux besoins fondamentaux du développement national. c<span style=\"font-size: 1.07rem; line-height: 1.5;\">onscient des réalités socio-économiques du pays dont notamment le niveau élevé du chômage des jeunes.</span></div><div><br></div><div>Désireux de promouvoir la jeunesse congolaise fraîche émoulue des universités et instituts supérieurs, en investissant dans leur formation professionnelle, ce qui est un facteur de renforcement de leur compétence.</div><div><br></div>",
+          "text2": "<p>Tenant compte du fait que la création des moyens d’emplois décents est un facteur déterminant de l’autonomisation socio-économique des jeunes.</p><p><br></p><p>Persuadé que les jeunes peuvent être des agents positifs du changement au sein de leur communauté.</p><p>Fermement convaincus qu’aucune société ne peut être organisée sans normes régissant ses membres.</p><p><br></p><p>Nous avons décidé de créer une association sans but lucratif, à caractère culturel, social et économique, afin d’accompagner les jeunes dans le domaine professionnel en abordant une stratégie de formation multidisciplinaire, pour créer une pépinière d’experts dans différents secteurs d’activités.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-c",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACTEZ-NOUS",
+          "subtitle": "Devenir meilleur pour mieux servir",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEZ-NOUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "1013 Avenue Mutombo Katshi Commune de la Gombe, Cavali Center",
+              "placeId": "ChIJxUMixfQzahoRH37hrrIdKRA",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>1013 avenue Mutombo Katshi, Commune de la Gombe, Immeuble Kavali Center, 2eme Niveau, &nbsp;Kinshasa, République démocratique du Congo<br><br>\n<strong>Contacts</strong><br>\nEmail: contact@lexicod.com<br>\nPhone: (00243) 81 47 87 401<br><br>",
+          "text2": ""
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-376x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACCEUIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Publications.html\" aria-expanded=\"false\">PUBLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">FORMATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"apropos.html\" aria-expanded=\"false\">A PROPOS DE NOUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"apropos.html\">CONTACT</a></li>"
+        }
+      ]
+    },
+    "Publications.html": {
+      "settings": {
+        "title": "Nos Publications ",
+        "meta_descr": "Dans cette rublique vous trouverez  toutes nos publications",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-z",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-376x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACCEUIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Publications.html\" aria-expanded=\"false\">PUBLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">FORMATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"apropos.html\" aria-expanded=\"false\">A PROPOS DE NOUS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"apropos.html\">CONTACT</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Lexicod."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#e25041"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Lexique Douanier et Accisien de la RDC",
+          "meta": "Par Andre Monga Numbi posté &nbsp;le 17 Mai 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p>Va bientot paraitre le Lexique Douanier et Accisien de la RDC.&nbsp;</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">LexiCod ASBL prepare la sortie officiel de ce livre  qui regroupe plus de 600 termes douniers , traites directement ou indirectement et se veut etre une présentation plus au moins exhaustive des concepts et notions relatifs au domaine aussi vaste que le droit douanier , tant sous leur dimensions nationale qu'internationale</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text1": "<p>Avec plus de 600 termes douaniers traités directement ou indirectement,</p><p>ce lexique se veut être une présentation plus ou moins exhaustive des&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">concepts et notions relatifs au domaine aussi vaste que le droit douanier,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">tant sous leurs dimensions nationale qu’internationale.</span></p><p>Le droit douanier étant un droit spécial, se complaisant dans un jargon&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">incompré-hensible aux profanes &nbsp;il nous est apparu utile du haut de&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">l’expérience acquise dans le domaine douanier de publier un lexique&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">douanier et accisien &nbsp;afin de permettre à tous particulièrement aux&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">béotiens en la matière de bénéficier d’un outil pratique leur permet-tant&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">un accès direct et facile au vocabulaire douanier.</span></p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p>A cette fin, nous nous sommes évertués d’une part en présence d’une multitude des textes légaux et réglementaires et d’autre part face à la technicité de la matière</p><p>douanière de présenter et d’expliciter ces concepts afin de rendre accessible et abordable cette matière jusque là réservée aux seuls initiés.</p><p>Cet ouvrage est donc rédigé dans un esprit de facilitation de compréhension de la législation douanière et accisienne pour son application aisée.</p><p>Ce lexique ne se limite pas aux simples définitions mais présente les concepts développés dans leurs aspects techniques, au besoin, avec plus de détails possibles.</p>",
+          "text3": "<p>Nos lecteurs trouveront  à cet effet après le développement de certains termes, des références bibliographiques et/ou des textes législatifs et réglementaires qui serviront de repère pour des recherches spécifiques</p><p>plus approfondies.</p><p>Ce document initial se voudra être actualisé et enrichi, notamment, par la prise en compte, à la fois des nouvelles dispositions de la législation douanière et des accises et des critiques constructives.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#e25041"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-15",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ldea.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "L'auteur",
+          "text": "<b>André Monga Numbi</b>, actuellement Sous- Directeur<br>de douane, est né à Kamina&nbsp;Chef-lieu de la province du Haut-lomami&nbsp;en RD Congo. Il est diplômé des grandes&nbsp;écoles des douanes (RDC, Maroc, France)&nbsp;et licencié en droit économique et social.<br>Fort de son expérience acquise dans sa&nbsp;carrière, aux différents grades et fonctions,&nbsp;combinée à la passion de la recherche dans&nbsp;son domaine d’activité professionnelle, la&nbsp;douane, il aborde avec une aisance et une&nbsp;objectivité les questions liées à ce domaine,<br>ce qui rend ce magnum opus accessible à&nbsp;toute personne intéressée, de près ou de&nbsp;loin, à la matière douanière.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"apropos.html\" data-toolbar=\"-mbrBtnMove\">Acheter</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px",
+              "color": "#e25041"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "<i>Autres publications</i>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "features3-16",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ldea-copie.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Lexique Douanier et Accisien de la RDC",
+          "subtitle1": "LexiCod",
+          "caption1": "Dans ce lexique, vous trouverez l'ensemble des termes ou expressions utilisés dans un domaine précis, ne se trouvant généralement pas dans les dictionnaires généraux..",
+          "button1": "<a data-app-btn=\"true\" href=\"COVER DESIGN.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Detail</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dcret-portant-mesures-dapplication-du-code-des-douanes.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Décret portant mesures d'application du Code des douanes",
+          "subtitle2": "Journal Officiel",
+          "caption2": "Dans ce lexique, vous trouverez l'ensemble des termes ou expressions utilisés dans un domaine précis, ne se trouvant généralement pas dans les dictionnaires généraux.",
+          "button2": "<a data-app-btn=\"true\" href=\"D.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Detail</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-d-douanes.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Code des Douanes",
+          "subtitle3": "Journal Officiel",
+          "caption3": "Dans ce lexique, vous trouverez l'ensemble des termes ou expressions utilisés dans un domaine précis, ne se trouvant généralement pas dans les dictionnaires généraux.",
+          "button3": "<a data-app-btn=\"true\" href=\"CODE DES DOUANES.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Detail</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lexique2-1.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Lexique 4",
+          "subtitle4": "Nelson Mbembe",
+          "caption4": "Dans ce lexique, vous trouverez l'ensemble des termes ou expressions utilisés dans un domaine précis, ne se trouvant généralement pas dans les dictionnaires généraux.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Detail</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    }
+  }
+}
